@@ -1,2 +1,2 @@
 # excess-weight-calculator
-this excess weight can calculate weight per single booking
+this excess weight can calculate excess weight per single booking
